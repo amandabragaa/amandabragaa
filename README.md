@@ -12,7 +12,7 @@
 <p>Treinando boas práticas com Git e Controle de Versão</p>
 
 <p align="left">
-Linguagens:<strong> JavaScript.</strong>
+Linguagens:<strong> JavaScript e React.</strong>
 </p>
 <br>
 <p align="left">
