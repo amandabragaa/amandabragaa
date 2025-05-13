@@ -6,13 +6,13 @@
 
 <p>Atualmente, estou:</p>
 
-<p>-Aprofundando meus conhecimentos em HTML, CSS, JavaScript e React.</p>
+<p>-Aprofundando meus conhecimentos em HTML, CSS, JavaScript.</p>
 <p>-Estudo Contínuo: Algoritmos e Lógica de Programação.</p>
 <p>-Busco fortalecer a base para projetos mais complexos e desafios técnicos.</p>
 <p>Treinando boas práticas com Git e Controle de Versão</p>
 
 <p align="left">
-Linguagens:<strong> JavaScript e React.</strong>
+Linguagens:<strong> JavaScript.</strong>
 </p>
 <br>
 <p align="left">
