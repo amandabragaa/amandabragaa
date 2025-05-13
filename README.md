@@ -1,7 +1,7 @@
 ## Olá, meu nome é Amanda Braga!
 
 <p align="left">
-<strong>Sou estudante de Análise e Desenvolvimento de Sistemas e, atualmente, estou cursando o Dev Completo, com foco em desenvolvimento web. Estudo HTML, CSS, JavaScript e React, buscando aprimorar minhas habilidades diariamente e me manter em constante evolução.</strong>
+<strong>Sou estudante de Análise e Desenvolvimento de Sistemas e, atualmente, estou cursando o Dev Completo, com foco em desenvolvimento web. Estudo HTML, CSS, JavaScript, buscando aprimorar minhas habilidades diariamente e me manter em constante evolução.</strong>
 </p>
 
 <p>Atualmente, estou:</p>
