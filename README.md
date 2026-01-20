@@ -1,18 +1,13 @@
 ## Olá, meu nome é Amanda Braga!
 
 <p align="left">
-<strong>Sou estudante de Análise e Desenvolvimento de Sistemas e, atualmente, estou cursando o Dev Completo, com foco em desenvolvimento web. Estudo HTML, CSS, JavaScript, buscando aprimorar minhas habilidades diariamente e me manter em constante evolução.</strong>
+<strong>Sou estudante de Análise e Desenvolvimento de Sistemas e estou em transição de carreira: venho da área de Educação Física e, atualmente, me dedico integralmente aos estudos para conquistar minha primeira oportunidade em tecnologia.</strong>
 </p>
 
-<p>Atualmente, estou:</p>
-
-<p>-Aprofundando meus conhecimentos em HTML, CSS, JavaScript.</p>
-<p>-Estudo Contínuo: Algoritmos e Lógica de Programação.</p>
-<p>-Busco fortalecer a base para projetos mais complexos e desafios técnicos.</p>
-<p>Treinando boas práticas com Git e Controle de Versão</p>
+<p>ATenho conhecimentos em Python, Node.js, TypeScript e AWS, e sigo aprimorando minha base técnica com estudo contínuo de algoritmos e lógica de programação, além de treinar boas práticas com Git e controle de versão.:</p>
 
 <p align="left">
-Linguagens:<strong> JavaScript.</strong>
+Linguagens:<strong> Python • Node.js • TypeScript • AWS • Git/GitHub</strong>
 </p>
 <br>
 <p align="left">
