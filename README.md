@@ -1,7 +1,7 @@
 ## Olá, meu nome é Amanda Braga!
 
 <p align="left">
-<strong>Sou estudante de Análise e Desenvolvimento de Sistemas e estou em transição de carreira: venho da área de Educação Física e, atualmente, me dedico integralmente aos estudos para conquistar minha primeira oportunidade em tecnologia.</strong>
+<strong>Sou estudante de Análise e Desenvolvimento de Sistemas e estou em transição de carreira: venho da área de Educação Física e, atualmente, me dedico integralmente aos estudos com foco de conquistar uma oportunidade como desenvolvedora.</strong>
 </p>
 
 <p>Tenho conhecimentos em Python, Node.js, TypeScript e AWS, e sigo aprimorando minha base técnica com estudo contínuo de algoritmos e lógica de programação, além de treinar boas práticas com Git e controle de versão.:</p>
